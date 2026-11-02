@@ -1,4 +1,4 @@
-package lab06;
+package lab6;
 
 public class Ghiozdan {
     private Rechizita[] rechizite = new Rechizita[10];

@@ -1,4 +1,4 @@
-package lab06;
+package lab6;
 
 public class Manual extends Rechizita {
     public Manual(String eticheta) {
